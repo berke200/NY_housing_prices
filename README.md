@@ -33,3 +33,11 @@ The goal of this project is to clean, explore, and visualize NYC housing data, h
 1. Install required packages:
 3. ```bash
    pip install -r requirements.txt
+   ```
+   
+
+
+## **Pictures**
+
+<img width="624" height="622" alt="output1" src="https://github.com/user-attachments/assets/666b3b0a-1e0c-43f7-a7bc-4597726b3092" />
+<img width="1182" height="590" alt="output" src="https://github.com/user-attachments/assets/5c95af48-d1db-4a92-8665-a515277eb489" />
